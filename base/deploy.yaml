@@ -13,5 +13,6 @@ spec:
         app: kargo-demo
     spec:
       containers:
-        - name: nginx
-          image: nginx:placeholder
+        - name: csh-svc-node
+          # image: nginx:placeholder
+          image: "snrakshith/csh-svc-node:placeholder"
