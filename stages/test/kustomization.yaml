@@ -15,4 +15,4 @@ patches:
 images:
 - name: snrakshith/csh-svc-node
   newName: snrakshith/csh-svc-node
-  newTag: 0.0.5
+  newTag: 0.0.6
